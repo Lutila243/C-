@@ -1,2 +1,2 @@
 #C++
-this is my class homework and project
+these are my class homework and project
