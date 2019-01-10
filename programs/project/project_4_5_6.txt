@@ -1,0 +1,6 @@
+Biology 150.22 169.45 159.21		
+Chemistry 48.14 52.67 50.43
+English 65.68 70.45 71.23
+Computer 420.50 433.22 426.11		
+Mathematics 189.22 190.28 199.45		
+Total

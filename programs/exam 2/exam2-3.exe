@@ -1,0 +1,52 @@
+#include<cmath>
+#include <iostream>
+#include <stdlib.h>
+#include <string>
+#include <iomanip>
+#include <fstream>
+
+
+
+
+using namespace std;
+
+int main()
+{
+char letter;
+
+cout<<"\n enter your letter";
+cout<<"\B or b (Birthday)";
+cout<<"\n D or d (Day)"<<endl;
+ cin>>letter;
+ 
+ switch(letter){
+ 	
+ 	
+ 	case 'b':
+ 	case 'B':
+ 		
+ 		if (b){
+ 			 cout<<"\nEnjoy your birthday"<<endl;
+ 			  break;
+}
+		
+   
+	
+	 case 'd':
+	 case 'D':
+	 
+	    if (d){
+	    	
+	    	  cout<<"\nHave a nice day"<<endl;
+	    	  break;
+}        
+ 
+ 
+	default :
+		cout<<"*************ERROR**************"<<endl;	
+ 	
+  
+}
+	system("PAUSE");
+	return 0;
+}

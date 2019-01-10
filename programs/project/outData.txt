@@ -1,0 +1,12 @@
+ Student name:JoseQuinones
+test scores: 87.50 89.00 65.75 94.33 78.00
+average test score:  82.92
+
+ Student name:JackBrown
+test scores: 84.23 86.00 74.21 90.00 92.13
+average test score:  85.31
+
+ Student name:JohnGreen
+test scores: 99.87 88.45 83.00 94.56 89.45
+average test score:  91.07
+
